@@ -1,5 +1,5 @@
 import java.lang.*;
-Class Seven{
+class Seven{
 public static void main(String args[]){
 System.out.println("Hello World!");
 }
